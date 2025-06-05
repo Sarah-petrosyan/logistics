@@ -1,0 +1,58 @@
+@media (max-width: 1260px) {
+
+}
+@media (max-width: 1000px) {
+
+}
+
+@media (max-width: 800px) {
+    .card {
+        width: 47%;
+    }
+    .img-fluid{
+        width: 75%;
+    }
+    .text-field{
+        width: 75%;
+    }
+    .card-3{
+        width: 47%;
+    }
+    .shops {
+        .shop-image {
+            width: calc(100% / 4);
+
+        }
+    }
+}
+@media (max-width: 660px) {
+
+    .top-menu{
+        justify-content: space-around;
+    }
+    ul.menu{
+        display: none;
+    }
+    .mobile-menu{
+        display: block;
+        padding: 15px;
+        font-size: 30px;
+    }
+}
+@media (max-width: 410px) {
+.default-menu{
+    display: none;
+}
+    .card{
+        width: 100%;
+    }
+    .card-3{
+        width: 100%;
+    }
+    .shops {
+        .shop-image {
+            width: calc(100% / 2);
+
+        }
+    }
+}
