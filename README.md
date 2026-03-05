@@ -1,26 +1,36 @@
-# Logistics Landing Page
+<div align="center">
 
-This project is a simple logistics company landing page built using **HTML and CSS**.  
-It focuses on creating a clean webpage layout and organizing sections commonly used on business websites.
+# Logistics
 
-The page is currently a **static one-page layout** and does not include interactive functionality yet.
+**A modern and responsive website designed for a logistics and transportation company.**
 
-## Overview
-The landing page represents a basic structure for a logistics or transportation company website. It includes sections that introduce the company, services, and general information.
+[**➥ Live Demo**](https://sarah-petrosyan.github.io/logistics/)
 
-## Features
-- Static one-page layout
-- Structured content sections
-- Styled using CSS
-- Responsive layout for different screen sizes (desktop, tablet, and mobile)
+</div>
 
-## Technologies Used
-- HTML5
-- CSS3
+---
 
-## Project Purpose
-This project was created as part of my front-end development learning process while studying **HTML and CSS**. It helped me practice building structured layouts and making webpages responsive across different devices.
+## About the Project
 
-## How to Run the Project
-1. Clone or download the repository
-2. Open `index.html` in your browser
+This project is a clean and responsive website designed for a **logistics and transportation business**.  
+The page features a strong landing section along with structured areas that highlight shipping services, transportation solutions, and company information.
+
+The layout focuses on **clarity, efficiency, and a professional corporate design**, helping showcase logistics services and business operations in an organized and visually clear way.
+
+This project was built to practice **front-end development fundamentals**, including layout design, responsive structure, and modern CSS styling.
+
+✅ Built with **HTML & CSS**  
+✅ Fully responsive layout  
+✅ Clean UI inspired by modern logistics and corporate websites  
+✅ Beginner-friendly front-end project
+
+---
+
+
+## Getting Started
+
+Make sure you have [Git](https://git-scm.com/downloads) installed. Then run:
+
+```bash
+git clone https://github.com/Sarah-petrosyan/logistics.git
+```
